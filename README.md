@@ -1,2 +1,1 @@
-# coursera_golang_certif
-# coursera_golang_certif
+Source code for Coursera certification
